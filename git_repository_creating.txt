@@ -1,0 +1,13 @@
+  ssh-keygen -t ed25519 -C "22mh1a05h9@acoe.edu.in"
+  git clone git@github.com:KallepalliDurgabhavani/Aws.git
+  pwd
+  cd Aws
+  pwd
+  cd ~
+  git status
+  cd Aws
+  git status
+  git add file1.txt
+  git status
+  git commit -m "This is my final file1"
+  git push
